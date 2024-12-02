@@ -23,7 +23,7 @@ Libraries: requests, colorama (install using pip)
 **1. Step-by-Step Guide**
 Clone the repository:
 ```
-git clone https://github.com/yourusername/vulnscanx.git
+git clone https://github.com/techcorp/vulnscanx.git
 cd vulnscanx
 ```
 **2. Install required dependencies:**
